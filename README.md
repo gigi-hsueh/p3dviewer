@@ -1,5 +1,5 @@
 # p3dviewer
-Barebones 3D viewer
+Barebones 3D viewer in processing
 
 Face Data set: http://tosca.cs.technion.ac.il/data/face.zip
 Jama: http://math.nist.gov/javanumerics/jama/doc/
